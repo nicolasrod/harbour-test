@@ -1,0 +1,13 @@
+-q0 
+-w3 -es2
+-b
+-oprojects
+
+main.prg
+tapp.prg
+tbrowse.prg
+tdbf.prg
+tcreatedbf.prg 
+twindow.prg
+tmemofield.prg
+hbnf.hbc
